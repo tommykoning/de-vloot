@@ -17,6 +17,7 @@ De vloot moet aan de volgende functionele eisen voldoen:
 * Van de niet gebruikte afbeeldingen in de map img moet een nieuwe pagina 'onderzeeërs' gemaakt worden met drijvende afbeeldingen
 * Alle pagina's moeten aan elkaar gekoppeld zijn via het menu boven in de pagina
 * Alle pagina's maken gebruik van een unieke tekst die je kunt genereren
+* Alle links op de pagina veranderen van kleur als je over een link heen gaat.
 
 ###Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
@@ -30,6 +31,7 @@ Wie ben ik moet aan de volgende technische eisen voldoen:
 * Alle ruimtes tussen de elementen kloppen met het ontwerp (meten van tussenruimte kan met Paint,  [Paint.net](http://www.getpaint.net/index.html)  etc.)
 * Alle documenten valideren als correct HTML5, [http://validator.w3.org/](http://validator.w3.org/)
 * Alle documenten bevatten een sans serif lettertype
+
 
 ###Bronnen
 ####HTML & CSS
