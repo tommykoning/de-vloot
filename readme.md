@@ -28,3 +28,9 @@ Wie ben ik moet aan de volgende technische eisen voldoen:
 * Alle documenten bevatten correcte koppen, paragrafen, lijsten, afbeeldingen en links
 * Alle ruimtes tussen de elementen kloppen met het ontwerp (meten van tussenruimte kan met Paint,  [Paint.net](http://www.getpaint.net/index.html)  etc.)
 * Alle documenten valideren als correct HTML5, [http://validator.w3.org/](http://validator.w3.org/)
+
+###Bronnen
+####HTML & CSS
+* [Hoe kan ik afbeeldingen laten drijven?](http://www.w3schools.com/cssref/pr_class_float.asp)
+* [Hoe stel ik afstand buiten een element in?](http://www.w3schools.com/css/css_margin.asp)
+* [Hoe stel ik ruimte binnen een element in?](http://www.w3schools.com/css/css_padding.asp)
