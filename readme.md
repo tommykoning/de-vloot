@@ -1,28 +1,28 @@
 #De vloot
 
-Bij deze opdracht ga je er voor zorgen dat afbeeldigen goed worden uitgeleind in de tekst.  De opdrachtgever vraagt je een website te bouwen voor zijn vloot.
+Bij deze opdracht ga je er voor zorgen dat afbeeldigen goed worden uitgelijnd in de tekst.  De opdrachtgever vraagt je een website te bouwen voor zijn vloot.
 
-De opdracht bestaat wederom uit twee type eisen, functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
+De opdracht bestaat wederom uit twee type eisen, functionele eisen en technische eisen. Je moet aan al deze eisen voldoen!
 
 ###Functionele eisen
 
-Functionele eisen beschrijven welke functionaliteit je eind product moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennis niveau.
+Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet kunnen begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennisniveau.
 
 De vloot moet aan de volgende functionele eisen voldoen:
 
 * De homepage moet worden gemaakt zoals in het voorbeeld (Voorbeelden/homepage.jpg)
-* De geschiedenis pagina moet worden gemaakt zoals in het voorbeeld (Voorbeelden/geschiedenis.jpg)
-* De kruisers pagian moet worden gemaakt zoals in het voorbeeld (Voorbeelden/kruisers.jpg)
-* De vliegdekschepen moet worden gemaakt zoals in het voorbeeld (Voorbeelden/vliegdekschepen.jpg)
+* De pagina 'geschiedenis' moet worden gemaakt zoals in het voorbeeld (Voorbeelden/geschiedenis.jpg)
+* De pagina 'kruisers' moet worden gemaakt zoals in het voorbeeld (Voorbeelden/kruisers.jpg)
+* De pagina 'vliegdekschepen' moet worden gemaakt zoals in het voorbeeld (Voorbeelden/vliegdekschepen.jpg)
 * Van de niet gebruikte afbeeldingen in de map img moet een nieuwe pagina 'onderzeeërs' gemaakt worden met drijvende afbeeldingen
 * Alle pagina's moeten aan elkaar gekoppeld zijn via het menu boven in de pagina
 * Alle pagina's maken gebruik van een unieke tekst die je kunt genereren
-* Alle links op de pagina veranderen van kleur als je over een link heen gaat.
+* Alle links op de pagina veranderen van kleur als je over een link heen gaat
 
 ###Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
 
-Wie ben ik moet aan de volgende technische eisen voldoen:
+De vloot moet aan de volgende technische eisen voldoen:
 * Alle documenten zijn geschreven in HTML5
 * Alle documenten bevatten het correcte doctype 
 * Alle documenten bestaan uit een head en body
