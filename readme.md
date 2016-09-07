@@ -16,6 +16,7 @@ De vloot moet aan de volgende functionele eisen voldoen:
 * De vliegdekschepen moet worden gemaakt zoals in het voorbeeld (Voorbeelden/vliegdekschepen.jpg)
 * Van de niet gebruikte afbeeldingen in de map img moet een nieuwe pagina 'onderzeeërs' gemaakt worden met drijvende afbeeldingen
 * Alle pagina's moeten aan elkaar gekoppeld zijn via het menu boven in de pagina
+* Alle pagina's maken gebruik van een unieke tekst die je kunt genereren
 
 ###Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
@@ -34,3 +35,4 @@ Wie ben ik moet aan de volgende technische eisen voldoen:
 * [Hoe kan ik afbeeldingen laten drijven?](http://www.w3schools.com/cssref/pr_class_float.asp)
 * [Hoe stel ik afstand buiten een element in?](http://www.w3schools.com/css/css_margin.asp)
 * [Hoe stel ik ruimte binnen een element in?](http://www.w3schools.com/css/css_padding.asp)
+* [Waar kan ik een unieke tekst genereren?](http://www.lipsum.com)
