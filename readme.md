@@ -26,5 +26,5 @@ Wie ben ik moet aan de volgende technische eisen voldoen:
 * Alle documenten bestaan uit een head en body
 * Alle documenten hebben een title
 * Alle documenten bevatten correcte koppen, paragrafen, lijsten, afbeeldingen en links
-* Alle ruimtes tussen de elementen kloppen met het ontwerp (meten van tussenruimte kan met Paint, Paint.net [http://www.getpaint.net/index.html](Paint.net)  etc.)
+* Alle ruimtes tussen de elementen kloppen met het ontwerp (meten van tussenruimte kan met Paint,  [Paint.net](http://www.getpaint.net/index.html)  etc.)
 * Alle documenten valideren als correct HTML5, [http://validator.w3.org/](http://validator.w3.org/)
