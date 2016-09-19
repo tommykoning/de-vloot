@@ -42,13 +42,9 @@ ul {
 	margin: 25px 0px 0px 0px  }
 
 #foto2 {  
-	float: right; 
+	float: left; 
 	margin: 10px 20px 30px 20px}
 
 #foto3 {  
-	float: left; 
+	float: right; 
 	margin: 10px 20px 30px 20px; }
-
-a {  
-	color: white; 
-	text-decoration: none;}
